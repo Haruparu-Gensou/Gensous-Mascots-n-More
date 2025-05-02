@@ -1,4 +1,4 @@
-# Gensous-Concepts-and-Things
+
 <html>
   <body>
     <h1> Welcome to Gensou's art dump! </h1>
